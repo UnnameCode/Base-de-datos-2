@@ -1,0 +1,16 @@
+{
+    "Id": 1,
+    "Nombre": "las Garzas",
+    "Longitud": 40.1,
+    "Latitud": 35.6,
+    "Estado de conservación": "Regular",
+    "Especies":
+    [
+        {
+            "Id": 1,
+            "Nombre": "Gavilan",
+            "#ejemplares":50,
+            "Amenzada":false
+        }
+    ]
+}

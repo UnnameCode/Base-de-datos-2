@@ -1,0 +1,21 @@
+    {
+        "id": 100,
+        "Nombre":   "Sur",
+        "Humedales":
+        [
+            {
+                "Id": 1,
+                "Nombre": "las Garzas",
+                "Longitud": 40.1,
+                "Latitud": 35.6,
+                "Estado de conservación": "Regular"
+            },
+            {
+                "Id": 2,
+                "Nombre": "Lo que sea",
+                "Longitud": 21.3,
+                "Latitud": 5.2,
+                "Estado de conservación": "Aspera"
+            }
+        ]
+    }
